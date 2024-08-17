@@ -2,12 +2,14 @@
 
 This is NLP project which aims to solve the problem of duplicate questions detection in Quora. Quora is famous website where users asks questions and other users tries to answer them. But many times similar question is being asked more then one times (and even 160 times! Yes there is question in dataset which is asked 160 times). 
 
-![image](https://github.com/user-attachments/assets/99feb145-4ee1-494d-b5f8-f969a2b7c7c8)
+![image](https://github.com/user-attachments/assets/20fe8eb5-8714-431f-9caa-0b9c4ba5a4c5)
+
 
 
 These duplicate questions affects the user experience in negative way. Our goal is to detect the duplicate questions so that all the related answers can be found at one single place. 
 
-![image](https://github.com/user-attachments/assets/447704fc-55ee-4985-b957-1fedf18e869f)
+![image](https://github.com/user-attachments/assets/2d5eebea-a124-41fc-91df-34ea5548c040)
+
 
 
 Two similar questions are merged together.
